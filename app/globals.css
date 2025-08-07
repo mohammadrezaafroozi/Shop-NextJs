@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  scroll-behavior: smooth;
+}
+body{
+  @apply px-2 md:px-3 lg:px-20 xl:px-40 bg-slate-50
+};
