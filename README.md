@@ -1,5 +1,5 @@
 # Shop-NextJs
-- Next Js e-commerce online shop with MUI, Redux Toolkit, react slick, react hot toast and TailwindCSS
+- Next Js e-commerce online shop with MUI, Redux Toolkit, react slick, react hot toast and TailwindCSS.
 
 [ONLINE DEMO](https://shop-next-js-nhmu.vercel.app/)
 <img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/b7825c62-983e-47e6-aaa4-7c260cce1df0" />
